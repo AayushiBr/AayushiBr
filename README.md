@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science And Business Intelligence 
 - 🌱 I’m currently learning Data Visualization and Analytics Tools
 - 💞️ I’m looking to collaborate on Analytics Projects
-- 📫 How to reach:www.linkedin.com/in/aayushi-ramdham-99889916a/
+- 📫 How to reach: www.linkedin.com/in/aayushi-ramdham-99889916a/
 
 <!---
 AayushiBr/AayushiBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
